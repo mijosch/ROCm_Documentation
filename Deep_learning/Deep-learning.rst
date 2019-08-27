@@ -119,7 +119,7 @@ Recommended:Install using published PyTorch ROCm docker image:
 
 ::
 
-  docker pull rocm/pytorch:rocm2.1
+  docker pull rocm/pytorch:rocm2.1_ubuntu16.04 
 
 3. Clone PyTorch repository on the host:
 
